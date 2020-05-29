@@ -34,7 +34,7 @@ $ source ~/.bashrc
 $ git clone https://github.com/MithunTechnologiesDevOps/Terraform_Scripts.git
 $ cd Terraform_Scripts
 ```
-###### <span style="color:orange"> Update Your Key Name in variables.tf file before executing terraform script </span>
+#### <span style="color:orange">Update Your Key Name in variables.tf file before executing terraform script.</span>
 ## Infrastructure As A Code
 #### Create Infrastructure(VPC,Subnets,Route Tables,EC2 Instnaces ..etc) As A Code Using Terraform Scripts
 ``` sh
